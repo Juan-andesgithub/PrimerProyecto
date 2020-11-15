@@ -2,5 +2,6 @@ Esta es la historia de Juan David
 
 Juan David tiene 19 años y nació en Colombia, Bogotá DC
 
-EStudia en la Universidad de los Andes las carreras de Ingeniería de Sistemas y Computación, adicionalmente Matematicá pura. 
+Estudia en la Universidad de los Andes las carreras de Ingeniería de Sistemas y Computación, adicionalmente Matematicá pura. 
 
+Este es un repaso na más de lo que se puede hacer con GITHUB y GIT respectivamente
